@@ -1,0 +1,16 @@
+QID,ChapterID,ChapterName,QType,Question
+Q001,Ch1,Chemical Reactions and Equations,MCQ,What is the product formed when magnesium is burned in air? (A) Magnesium hydroxide (B) Magnesium nitrate (C) Magnesium oxide (D) Magnesium carbonate
+Q002,Ch1,Chemical Reactions and Equations,VSA,Define a chemical equation.
+Q003,Ch1,Chemical Reactions and Equations,SA,Explain the difference between a balanced and unbalanced chemical equation with an example.
+Q004,Ch1,Chemical Reactions and Equations,CB,A student observed effervescence during a reaction. What does this indicate? Give a relevant chemical reaction.
+Q005,Ch1,Chemical Reactions and Equations,LA,Describe the types of chemical reactions with examples.
+Q006,Ch2,Acids,MCQ,Which acid is present in lemon juice? (A) Acetic acid (B) Citric acid (C) Sulfuric acid (D) Hydrochloric acid
+Q007,Ch2,Acids,VSA,Name a basic oxide.
+Q008,Ch2,Acids,SA,What happens when an acid reacts with a metal carbonate? Write the reaction.
+Q009,Ch2,Acids,CB,Read the paragraph and answer the questions: A student adds dilute HCl to zinc granules and observes bubbling...
+Q010,Ch2,Acids,LA,Discuss the importance of pH in everyday life with suitable examples.
+Q011,Ch3,Metals and Non-metals,MCQ,Which metal is the best conductor of electricity? (A) Iron (B) Copper (C) Silver (D) Aluminium
+Q012,Ch3,Metals and Non-metals,VSA,Name one non-metal that is lustrous.
+Q013,Ch3,Metals and Non-metals,SA,Why do ionic compounds have high melting points?
+Q014,Ch3,Metals and Non-metals,CB,Case Study: A factory uses copper wires for electrical wiring. Justify the choice with scientific reasons.
+Q015,Ch3,Metals and Non-metals,LA,Explain the physical and chemical properties of metals and non-metals with examples.
